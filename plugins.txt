@@ -1,0 +1,15 @@
+blueocean:latest
+build-name-setter:latest
+build-timeout:latest
+checkmarx:latest
+cloudbees-folder:latest
+credentials:latest
+docker-plugin:latest
+docker-workflow:latest
+favorite:latest
+git:latest
+jobConfigHistory:latest
+rebuild:latest
+throttle-concurrents:latest
+timestamper:latest
+workflow-aggregator:latest
